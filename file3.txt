@@ -3,3 +3,4 @@ new branch 3
 edit master file
 edit feature one
 edit master branch again
+edit feature one
