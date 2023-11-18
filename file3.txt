@@ -1,2 +1,3 @@
 add new details
 new branch 3
+edit master file
